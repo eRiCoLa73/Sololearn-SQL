@@ -5,5 +5,3 @@ FROM animals, countries
 WHERE animals.country_id = countries.id
 ORDER BY animals.country.id desc; 
 
-
-*.sql linguist-language=sql
