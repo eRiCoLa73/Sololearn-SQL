@@ -2,3 +2,6 @@ SELECT name, calories
 FROM cakes
 ORDER BY calories
 LIMIT 3;
+
+
+*.sql linguist-language=sql
