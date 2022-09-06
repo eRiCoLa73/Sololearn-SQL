@@ -4,4 +4,4 @@ FROM Apartments) AND status = 'Not rented'
 ORDER BY price
 
 
-*.sql linguist-language=sql
+
